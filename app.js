@@ -6,9 +6,10 @@ const notes = require('./notes.js');
 const { demandOption } = require('yargs');
 
 //console.log(process.argv);
-//console.log(yargs.argv);
+
 
 //const command = process.argv[2];
+//console.log(yargs.argv);
 
 //create a add command
 yargs.command({
